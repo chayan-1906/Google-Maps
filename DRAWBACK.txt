@@ -1,0 +1,1 @@
+The app is not asking about Internet Service Permission
